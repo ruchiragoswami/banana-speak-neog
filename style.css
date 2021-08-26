@@ -1,0 +1,16 @@
+#output {
+    border: 2px solid green;
+    height: 100px;
+    /* margin-top: 2rem; */
+    margin: 0 auto; 
+    padding-top: 2rem;
+    width: 40%; 
+    
+} 
+
+#txt-input {
+    margin: 0 auto; 
+    width: 30%;
+    height: 15vh; 
+    border: 1px solid red; 
+}
