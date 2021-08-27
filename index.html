@@ -11,21 +11,30 @@
 </head>
 
 <body>
-    <h1> Talk Banana </h1>
-    <textarea name="translator" id="txt-input" placeholder="Enter your text here for translation"
-     >
-    </textarea>
 
-    <button id="btn-translate">
-        Translate
-    </button>
+    <div class="main-container">
+        <h1> Banana Talk </h1>
+        <div> 
+            <img src="hero-img.svg" alt="">
+        </div>
 
-    <div> Output will come here</div>
-    <div id="output">
+        <textarea name="translator" id="txt-input" cols="30" rows="10" placeholder="Enter your text here"></textarea>
 
+        <button id="btn-translate">
+            Translate
+        </button>
 
+        <h2> Translated text will come here</h2>
+
+        <div id="output">
+            <!-- Output appears here -->
+        </div>
+
+        <footer> 
+            Enter any text and get it translated to banana language! <br>
+            Click 'n' Translate 
+        </footer>
     </div>
-
     <script src="app.js"> </script>
 </body>
 

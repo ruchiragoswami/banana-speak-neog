@@ -1,12 +1,12 @@
-console.log("23  August 2021");
+// console.log("23  August 2021");
 
 // let userInput = document.text
 
 var translate = document.querySelector('#btn-translate');
 var userInput = document.querySelector('#txt-input');
 var outputDiv = document.querySelector("#output");
-let serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
-// let serverURL = "https://api.funtranslations.com/translate/minion.json"
+// let serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
+let serverURL = "https://api.funtranslations.com/translate/minion.json"
 
 
 function getTranslationURL(someText) {
