@@ -1,4 +1,4 @@
-#Banana Talk
+# Minion Speak App
 This is a fun translation app is made in vanillaJS.
 User can input text and get translation in 'banana'.
  
