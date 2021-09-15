@@ -1,6 +1,3 @@
-// console.log("23  August 2021");
-
-// let userInput = document.text
 
 var translate = document.querySelector('#btn-translate');
 var userInput = document.querySelector('#txt-input');
