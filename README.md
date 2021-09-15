@@ -1,4 +1,4 @@
-# Banana Talk 
+# Minion Translation 
 First version of the app, done with the live class
 
 This is a fun translation app is made in vanillaJS.
